@@ -1,12 +1,17 @@
 # Data Portfolio
 ## About Me
 
-I’m an economist who enjoys working with data 📊
+I’m an economist who loves working with data 📊
 
 I’m Microsoft certified in Power BI (DP-300), and this is my work-in-progress portfolio where I share projects using Power BI, SQL, and Python 🧠
 
 I am always learning, improving, and exploring new ways to work with data to support better decision-making. 🚀
 
+# 📁 Project Categories
+
+<a href="#">📊 Power BI-Projects</a>
+<a href="#">📊 SQL-Projects</a>
+<a href="#">🐍 Python_Pand-Projects</a>
 
 This Power BI project provides financial and operational insights into revenue performance across different regions, customer segments, and business dimensions.
 
