@@ -23,8 +23,8 @@ porque escolheu as visualizaoes
 
 
 ## 📈 Insights Found
- - Qual a variação da revenue total
- - Quais as regioes que tiveram queda de revenue
+ 📌 Qual a variação da revenue total
+ 📌Quais as regioes que tiveram queda de revenue
    Dessas regioes quais os segumentos que apresentaram queda
- - Quais os segmentos que tiveam  quedas de revenue e em quais regies (teoricamente é a mesma resposta do de cima)
+ 📌Quais os segmentos que tiveam  quedas de revenue e em quais regies (teoricamente é a mesma resposta do de cima)
 
