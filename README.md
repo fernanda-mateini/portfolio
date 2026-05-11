@@ -7,7 +7,7 @@ I am always learning, improving, and exploring new ways to work with data to sup
 
 I’m Microsoft certified in Power BI (DP-300), and this is my work-in-progress portfolio where I share some projects using Power BI, SQL, and Python 🧠
 
-# 📁 Project Categories
+## 📁 Project Categories
 
 <a href="#">📊 Power BI-Projects</a>
 
@@ -20,7 +20,7 @@ I’m Microsoft certified in Power BI (DP-300), and this is my work-in-progress 
 
 <a href="#">🐍 Python_Panda-Projects</a>
 
-# 🤝 Let's Connect!
+## 🤝 Let's Connect!
 
 Thank you for taking the time to review my portfolio. I look forward to connecting with you soon.
 
