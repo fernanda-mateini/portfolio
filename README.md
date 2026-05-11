@@ -1,5 +1,5 @@
 # Data Portfolio
-👋 ##About Me
+##About Me
 
 I’m an economist who enjoys working with data 📊
 
