@@ -13,7 +13,7 @@ I’m Microsoft certified in Power BI (DP-300), and this is my work-in-progress 
 
 <a href="#">🗄️ SQL-Projects</a>
 
-<a href="#">🐍 Python_Pand-Projects</a>
+<a href="#">🐍 Python_Panda-Projects</a>
 
 # 🤝 Let's Connect!
 
