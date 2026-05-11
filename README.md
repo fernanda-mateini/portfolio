@@ -15,7 +15,7 @@ I’m Microsoft certified in Power BI (DP-300), and this is my work-in-progress 
 
 <a href="#">🐍 Python_Pand-Projects</a>
 
-## 🤝 Let's Connect!
+# 🤝 Let's Connect!
 
 Thank you for taking the time to review my portfolio. I look forward to connecting with you soon.
 
