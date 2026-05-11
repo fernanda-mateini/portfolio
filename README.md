@@ -3,45 +3,23 @@
 
 I’m an economist who loves working with data 📊
 
-I’m Microsoft certified in Power BI (DP-300), and this is my work-in-progress portfolio where I share projects using Power BI, SQL, and Python 🧠
-
 I am always learning, improving, and exploring new ways to work with data to support better decision-making. 🚀
+
+I’m Microsoft certified in Power BI (DP-300), and this is my work-in-progress portfolio where I share some projects using Power BI, SQL, and Python 🧠
 
 # 📁 Project Categories
 
 <a href="#">📊 Power BI-Projects</a>
 
-<a href="#">📊 SQL-Projects</a>
+<a href="#">🗄️ SQL-Projects</a>
 
 <a href="#">🐍 Python_Pand-Projects</a>
 
-This Power BI project provides financial and operational insights into revenue performance across different regions, customer segments, and business dimensions.
+## 🤝 Let's Connect!
 
-## Key Insights
+Thank you for taking the time to review my portfolio. I look forward to connecting with you soon.
 
-* Revenue trends across regions and customer segments
-* Revenue concentration and business performance analysis
-* Customer payment behaviour monitoring
-* Overdue invoice and collections analysis
-* Dispute resolution impact on cash flow
-* Financial risk and outstanding balance monitoring
+✉️ [Email](mailto:fernandamateini1@gmail.com)
 
-## Tools & Technologies
+🔗[LinkedIn](https://www.linkedin.com/in/fernanda-mateini)
 
-* Power BI
-* DAX
-* Power Query
-* Excel / CSV
-* Data Modeling
-
-## Dashboard Features
-
-* Executive KPI overview
-* Revenue trend analysis
-* Regional performance comparison
-* Interactive drill-through pages and filters
-* Insights
-
-## Business Objective
-
-Support finance and leadership teams with data-driven insights to improve revenue visibility.
