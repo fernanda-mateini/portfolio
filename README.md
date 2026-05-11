@@ -1,2 +1,32 @@
-# powerbi-controller-insights
-This project provides strategic financial insights through interactive Power BI dashboards focused on revenue performance, accounts receivable, collections efficiency, and customer payment behaviour analysis.
+# Revenue Analysis by Region and Segment
+
+This Power BI project provides financial and operational insights into revenue performance across different regions, customer segments, and business dimensions.
+
+## Key Insights
+
+* Revenue trends across regions and customer segments
+* Revenue concentration and business performance analysis
+* Customer payment behaviour monitoring
+* Overdue invoice and collections analysis
+* Dispute resolution impact on cash flow
+* Financial risk and outstanding balance monitoring
+
+## Tools & Technologies
+
+* Power BI
+* DAX
+* Power Query
+* Excel / CSV
+* Data Modeling
+
+## Dashboard Features
+
+* Executive KPI overview
+* Revenue trend analysis
+* Regional performance comparison
+* Interactive drill-through pages and filters
+* Insights
+
+## Business Objective
+
+Support finance and leadership teams with data-driven insights to improve revenue visibility.
