@@ -1,6 +1,8 @@
-# Revenue Analysis by Region and Segment
+# 📁 Revenue Analysis by Region and Segment
 
-## 🚀 The Dashboard
+* 🚀 Goal: 
+
+## 📊 The Dashboard
 
 
 ## 🧹 The Data Cleaning and Transformation
