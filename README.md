@@ -1,4 +1,9 @@
-# Revenue Analysis by Region and Segment
+# Data Portfolio
+👋 About Me
+I’m an economist who enjoys working with data 📊
+I’m Microsoft certified in Power BI (DP-300), and this is my work-in-progress portfolio where I share projects using Power BI, SQL, and Python 🧠
+I am always learning, improving, and exploring new ways to work with data to support better decision-making. 🚀
+
 
 This Power BI project provides financial and operational insights into revenue performance across different regions, customer segments, and business dimensions.
 
