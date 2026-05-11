@@ -1,13 +1,13 @@
-### Revenue Analysis by Region and Segment
+# Revenue Analysis by Region and Segment
 
 ## 🚀 The Dashboard
 
 
 ## 🧹 The Data Cleaning and Transformation
 
-# Key Cleaning Steps
+### Key Cleaning Steps
 
-# Power Query Transformation Steps
+### Power Query Transformation Steps
 
 ## 🛠️ Technical Architecture
 
