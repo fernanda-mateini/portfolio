@@ -1,4 +1,4 @@
-# Data Portfolio
+# 💡 Data Portfolio
 ## About Me
 
 I’m an economist who loves working with data 📊
@@ -10,7 +10,9 @@ I am always learning, improving, and exploring new ways to work with data to sup
 # 📁 Project Categories
 
 <a href="#">📊 Power BI-Projects</a>
+
 <a href="#">📊 SQL-Projects</a>
+
 <a href="#">🐍 Python_Pand-Projects</a>
 
 This Power BI project provides financial and operational insights into revenue performance across different regions, customer segments, and business dimensions.
