@@ -6,7 +6,7 @@
 
 ## Dashboard Screenshot
 
-![overview](PowerBI-Projects./dashboard screenshot.png)
+![overview](portfolio/PowerBI-Projects./dashboard screenshot.png)
 
 ## 🧹 The Data Cleaning and Transformation
 
