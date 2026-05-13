@@ -7,6 +7,7 @@
 ## Dashboard Screenshot
 
 ![overview](portfolio/PowerBI-Projects./dashboard screenshot.png)
+![overview](https://github.com/fernanda-mateini/portfolio/blob/a9906cbc2d10c708fc8b574a570cd983ed86809c/PowerBI-Projects./dashboard%20screenshot.png)
 
 ## 🧹 The Data Cleaning and Transformation
 
