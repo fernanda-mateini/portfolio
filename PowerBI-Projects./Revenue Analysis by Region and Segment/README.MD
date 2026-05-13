@@ -6,7 +6,7 @@
 
 ## Dashboard Screenshot
 
-![Dashboard](images/captura-dashboard.png)
+![Dashboard](dashboard screenshot.png)
 
 ## 🧹 The Data Cleaning and Transformation
 
