@@ -1,9 +1,9 @@
 # 📁 Revenue Analysis by Region and Segment
 
-* 🚀 Goal: Analisar impacto na das regiões e segmentos de produtos na revenue no mes corrente com relação ao mes anterior- ETL dentro do PowerBI
+* 🚀 Goal: Analyze the impact of regions and product segments on revenue in the current month compared to the previous month using ETL processes in Microsoft Power BI.
 
 ## 📊 The Dashboards
-Foto dos dasgvoard
+
 
 ## 🧹 The Data Cleaning and Transformation
 
