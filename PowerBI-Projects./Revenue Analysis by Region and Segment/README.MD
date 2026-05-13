@@ -9,6 +9,9 @@ Foto dos dasgvoard
 
 ### Key Cleaning Steps
 escrever o que fez para limpar os dados/criação de tabela de datas
+* Built a calendar table using Power Query to enable relationships with business data tables and support time-based analysis.
+   New Source - Blank Query - Advanced Editor - See query in Model
+
 
 ### Power Query Transformation Steps
 foto do power query com os steps
@@ -17,10 +20,9 @@ foto do power query com os steps
 porque escolheu as visualizaoes
 
 
-## 🧩 DAX
- * DAX1 =
- * DAX2 =
+## 🧩 Model 
 
+See Model.md
 
 ## 📈 Insights Found
  📌 Qual a variação da revenue total
