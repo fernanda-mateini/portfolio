@@ -4,8 +4,6 @@
 
 ## 📊 The Dashboards
 
-## Dashboard Screenshots
-
 Page 1 - Overview: High-level summary of revenue by region and segment, including revenue trends since 2023. Filters enable dynamic analysis across all metrics. When a single region is selected, the cards show segment distribution only for that region, enabling combined analysis by region and segment.
 
 ![overview](https://github.com/fernanda-mateini/portfolio/blob/a9906cbc2d10c708fc8b574a570cd983ed86809c/PowerBI-Projects./dashboard%20screenshot.png)
@@ -35,9 +33,15 @@ foto do power query com os steps
 porque escolheu as visualizaoes
 
 
-## 🧩 Model 
+## 🧩 DAX
 
-See Model.md
+- Revenue Previous Month = CALCULATE(sum(Case_Sample_Data_Set[NetRevenue]),DATEADD('Calendar'[Month], -1, MONTH))
+- Revenue MoM Change = [Total NetRevenue] - [Revenue Previous Month]
+- Revenue Previous Month by Customer = CALCULATE(SUM(Case_Sample_Data_Set[NetRevenue]),DATEADD('Calendar'[Month], -1, MONTH),
+    ALLEXCEPT(Case_Sample_Data_Set,Case_Sample_Data_Set[CustomerName]))
+- Revenue MoM % Change = DIVIDE([Total NetRevenue] - [Revenue Previous Month],[Revenue Previous Month])
+-  Revenue MoM Display = VAR Arrow = IF([Revenue MoM % Change] >= 0, "▲ ", "▼ ")
+   RETURN Arrow & FORMAT([Revenue MoM % Change] * 100, "0.0") & " p.p."
 
 ## 📈 Insights Found
  📌 Qual a variação da revenue total
