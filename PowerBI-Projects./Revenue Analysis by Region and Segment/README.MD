@@ -4,6 +4,9 @@
 
 ## 📊 The Dashboards
 
+## Dashboard Screenshot
+
+![Dashboard](images/captura-dashboard.png)
 
 ## 🧹 The Data Cleaning and Transformation
 
