@@ -17,7 +17,8 @@ By centralizing these KPIs into a single report, stakeholders can quickly identi
 
 The dashboard provides an executive-level overview of Year-to-Date (YTD) outstanding invoices and unpaid overdue balances.
 
-![Collection](../Collection.png)
+![Collection.png](https://github.com/fernanda-mateini/portfolio/blob/084911dc1a6c308c4a8ddb27b09de407a97242b3/PowerBI-Projects./Collection.png))
+
 
 
 KPI Cards: At the top of the report, users can find the main business indicators:
