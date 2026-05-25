@@ -11,10 +11,14 @@ I’m Microsoft certified in Power BI (DP-300), and this is my work-in-progress 
 
 <a href="#">📊 Power BI-Projects</a>
 
-  * Revenue Analysis by Region and Segment: Uma análise que é realizada end-to-end no Power BI. Load dados de arquivo de CSV e transformação, modelo e visualization.
+  * Revenue Analysis by Region and Segment: End-to-end analysis developed in Power BI, including CSV data ingestion, data transformation, data modeling, and dashboard visualization.
 🔧 Tools Used:
 ✅ Power BI (ETL & Data visualization & insights)
-  * 
+  * YTD Outstanding Invoices Dashboard: End-to-end analysis developed in Power BI, including CSV data ingestion, data transformation, data modeling, and dashboard visualization.
+🔧 Tools Used:
+✅ Power BI 
+✅ Python/Pandas
+
 
 <a href="#">🗄️ SQL-Projects</a>
 
