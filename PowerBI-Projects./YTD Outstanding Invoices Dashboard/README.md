@@ -51,10 +51,10 @@ Interactive Filters: At the top of the dashboard, the slicers dynamically update
 Before importing the data into Power BI, a data preparation process was performed using Python to improve data quality and create business-specific attributes required for the analysis. The complete transformation script can be found in the DATACLEANING file available in this repository.
 
 
-![Jupyter Payments Dashboard](../Jupyter_Payments_1.png)
+![Jupyter Payments](https://raw.githubusercontent.com/fernanda-mateini/portfolio/9dc31405b5f5b10358e52c6ce396794eeffd7963/PowerBI-Projects./Jupyter_Payments_1.png)
 
 
-![Jupyter Payments Dashboard](../Jupyter_Payments_2.png)
+![Jupyter Payments](https://raw.githubusercontent.com/fernanda-mateini/portfolio/9dc31405b5f5b10358e52c6ce396794eeffd7963/PowerBI-Projects./Jupyter_Payments_2.png)
 
 The Python process included the following steps:
 
